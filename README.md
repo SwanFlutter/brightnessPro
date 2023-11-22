@@ -1,8 +1,11 @@
 This package allows you to adjust the screen brightness using drag and slider functionalities. It provides precise control over the screen brightness, allowing you to tailor it to your specific needs and preferences. With this package, you can set the screen brightness to a maximum of 100 units. This capability enables you to finely adjust the screen brightness and make the most of it according to your requirements
 
 ## Features
+![XRecorder_Edited_21112023_164921](https://github.com/SwanFlutter/brightnessPro/assets/151648897/fcc26dc2-4ab7-4715-89db-ddcbf7546564)
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+![XRecorder_21112023_170151](https://github.com/SwanFlutter/brightnessPro/assets/151648897/f7ca28bf-88fa-4935-b19d-0fb8fbf5b00e)
+
+![20231120_051156](https://github.com/SwanFlutter/brightnessPro/assets/151648897/09582c20-3314-409a-8b9a-bb2b5c252067)
 
 ## Getting started
 
