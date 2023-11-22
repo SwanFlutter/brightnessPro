@@ -1,0 +1,22 @@
+name: brightness_pro
+description: "This package allows you to adjust the screen brightness using drag and slider functionalities. It provides precise control over the screen brightness, allowing you to tailor it to your specific needs and preferences. With this package, you can set the screen brightness to a maximum of 100 units. This capability enables you to finely adjust the screen brightness and make the most of it according to your requirements."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  screen_brightness: ^0.2.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
