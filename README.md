@@ -5,7 +5,6 @@ This package allows you to adjust the screen brightness using drag and slider fu
 
 ![XRecorder_21112023_170151](https://github.com/SwanFlutter/brightnessPro/assets/151648897/f7ca28bf-88fa-4935-b19d-0fb8fbf5b00e)
 
-![20231120_051156](https://github.com/SwanFlutter/brightnessPro/assets/151648897/09582c20-3314-409a-8b9a-bb2b5c252067)
 
 ## Getting started
 
